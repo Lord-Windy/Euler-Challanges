@@ -1,0 +1,6 @@
+[package]
+name = "euler-challanges"
+version = "0.1.0"
+authors = ["Samuel Brown <sam@samuelbrown.me>"]
+
+[dependencies]
